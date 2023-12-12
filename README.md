@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alligator1506&theme=Alligator1506
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alligator1506" alt="Alligator1506" /></a> </p> 
