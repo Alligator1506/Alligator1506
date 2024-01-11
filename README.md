@@ -12,13 +12,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alligator1506" alt="Alligator1506" /></a> </p> 
 <a href="https://app.daily.dev/alligator"><img src="https://api.daily.dev/devcards/843b1d60685d492981846dc4d2f0a71d.png?r=fca" width="400" alt="BaoQuoc's Dev Card"/></a>
+[![FaceBook Badge](https://img.shields.io/badge/-BaoQuoc-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/baoquoc1506/) [![Instagram Badge](https://img.shields.io/badge/-@alligator-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/alli._.15/) [![Mail Badge](https://img.shields.io/badge/-quoc150620-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:quoc150620@gmail.com)
 
 <!--
 **Alligator1506/Alligator1506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-[![FaceBook Badge](https://img.shields.io/badge/-BaoQuoc-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/baoquoc1506/) [![Instagram Badge](https://img.shields.io/badge/-@alligator-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/alli._.15/) [![Mail Badge](https://img.shields.io/badge/-quoc150620-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:quoc150620@gmail.com)
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
