@@ -13,9 +13,6 @@
 <!--
 **Alligator1506/Alligator1506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Katso käärme syövän GitHub-kirjoitukseni
-![snake gif](https://github.com/Alligator1506/Alligator1506/blob/output/github-contribution-grid-snake.gif)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alligator1506" alt="Alligator1506" /></a> </p> 
 <a href="https://app.daily.dev/alligator"><img src="https://api.daily.dev/devcards/843b1d60685d492981846dc4d2f0a71d.png?r=fca" width="400" alt="BaoQuoc's Dev Card"/></a>
 
@@ -27,3 +24,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alligator1506&theme=radical&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alligator1506&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## Katso käärme syövän GitHub-kirjoitukseni
+![snake gif](https://github.com/NaomiLe1811/NaomiLe1811/blob/output/github-contribution-grid-snake.gif)
