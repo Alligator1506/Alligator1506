@@ -1,5 +1,15 @@
 ### Hi there 👋
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=555555&width=435&lines=Hi+There!+👋;I'm+Bee" alt="Typing SVG" /></a>
+</h1>
+
+- 👋 Hi, I’m @Alligator1506
+- 👀 I’m interested in game developing
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on making video games
+- 📫 How to reach me: quoc150620@gmail.com
 <!--
 **Alligator1506/Alligator1506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
