@@ -26,3 +26,5 @@
 
 ## Commit rắn săn mồi Github
 ![snake gif](https://github.com/NaomiLe1811/NaomiLe1811/blob/output/github-contribution-grid-snake.gif)
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alligator1506\&layout=compact)
