@@ -1,12 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=555555&width=435&lines=Hi+There!+👋;I'm+Bee" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=555555&width=435&lines=Hi+There!+👋;I'm+Bee;I'm+Unity+Developer" alt="Typing SVG" /></a>
 </h1>
 
 - 👋 Hi, I’m @Alligator1506
 - 👀 I’m interested in game developing
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and Unity
 - 💞️ I’m looking to collaborate on making video games
 - 📫 How to reach me: quoc150620@gmail.com
 
@@ -24,5 +24,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alligator1506&theme=radical&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alligator1506&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Katso käärme syövän GitHub-kirjoitukseni
+## Commit rắn săn mồi Github
 ![snake gif](https://github.com/NaomiLe1811/NaomiLe1811/blob/output/github-contribution-grid-snake.gif)
