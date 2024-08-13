@@ -11,7 +11,7 @@
 - 📫 How to reach me: quoc150620@gmail.com
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alligator1506" alt="Alligator1506" /></a> </p> 
-<a href="https://app.daily.dev/alligator"><img src="https://api.daily.dev/devcards/v2/Eg9aVA6KYRGXKMvv6zJ0K.png?type=default&r=g43" width="356" alt="BaoQuoc's Dev Card"/></a>
+<a href="https://app.daily.dev/alligator"><img src="https://api.daily.dev/devcards/v2/Eg9aVA6KYRGXKMvv6zJ0K.png?type=default&r=g43" align="right" width="300" alt="BaoQuoc's Dev Card"/></a>
 
 [![FaceBook Badge](https://img.shields.io/badge/-BaoQuoc-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/baoquoc1506/) [![Instagram Badge](https://img.shields.io/badge/-@alligator-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/alli._.15/) [![Mail Badge](https://img.shields.io/badge/-quoc150620-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:quoc150620@gmail.com)
 
